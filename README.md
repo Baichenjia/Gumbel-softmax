@@ -6,7 +6,7 @@
 
 ### 重构可视化
 左侧为原始图像，中间部分为 `30*10` 的隐变量，右侧为重构结果.
-![VAE](vae-pic/vae_rebuild.png)
+![VAE](vae-pic/vae_rebuilt.png)
 
 ### 编码可视化
 可视化 6000 张图片作为输入的 encoder 输出的编码，用T-SNE降维后的结果。
